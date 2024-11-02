@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm a Computer Science student at Stanford University.  I've worked on projects like [Pocket Congress](https://sidmb.com/articles/pocket-congress) and, more recently, [a satellite that's being sent to space in 2025](/stanford-ssi/samwise-flight-software). Learn more about me on [my website](https://sidmb.com), or send me an email!.
+I'm a Computer Science student at Stanford University.  I've worked on projects like [Pocket Congress](https://sidmb.com/articles/pocket-congress) and, more recently, [a satellite that's being sent to space in 2025](/stanford-ssi/samwise-flight-software). Learn more about me on [my website](https://sidmb.com), or send me an email!
 
 Sincerely,
 
