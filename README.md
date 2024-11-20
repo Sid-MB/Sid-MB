@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm a Computer Science student and AI researcher at Stanford University.  I've founded [Pocket Congress](https://sidmb.com/articles/pocket-congress), an app for iOS, and I'm currently working on software for [a satellite launching into space](https://github.com/stanford-ssi/samwise-flight-software) in 2025. Learn more about me on [my website](https://sidmb.com), or send me an email!
+I'm a Computer Science student and Artificial Intelligence researcher at Stanford University.  I've founded [Pocket Congress](https://sidmb.com/articles/pocket-congress), an app for iOS, and I'm currently working on software for [a satellite launching into space](https://github.com/stanford-ssi/samwise-flight-software) in 2025. Learn more about me on [my website](https://sidmb.com), or send me an email!
 
 Sincerely,
 
