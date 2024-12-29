@@ -11,7 +11,7 @@ I'm currently working on [the software for a satellite launching into space](htt
 Sincerely,
 
 **Siddharth M. Bhatia**  
-siddharth@cs.stanford.edu  
+smbhatia@stanford.edu  
 
 <br />
 <br />
