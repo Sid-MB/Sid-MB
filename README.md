@@ -4,9 +4,7 @@ Welcome to my profile!
 
 I'm a Computer Science student at Stanford University.
 
-I've founded [Pocket Congress](https://sidmb.com/articles/pocket-congress), an app for iOS that won the Congressional App Challenge.
-
-I'm currently working on [the software for a satellite launching into space](https://github.com/stanford-ssi/samwise-flight-software) next year, among other things. Learn more about me on [my website](https://sidmb.com) or send me an email.
+I founded [Pocket Congress](https://sidmb.com/articles/pocket-congress), an iOS app that won the Congressional App Challenge. I'm currently working on [the software for a satellite launching into space](https://github.com/stanford-ssi/samwise-flight-software) next year, among other projects. Learn more about me on [my website](https://sidmb.com) or send me an email.
 
 Sincerely,
 
