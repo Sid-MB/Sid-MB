@@ -19,7 +19,7 @@ smbhatia@stanford.edu
 
 ### Pocket Congress
 
-<img width="300" height="107" alt="laurel" src="https://github.com/user-attachments/assets/bbafd2ef-f56d-433f-9865-c41f13652932" />
+<img width="300" alt="laurel" src="https://github.com/user-attachments/assets/bbafd2ef-f56d-433f-9865-c41f13652932" />
 <br />
 
 <img src="https://github.com/user-attachments/assets/cef6c80f-c5f5-40c2-9e9a-4767cd81a2ee" height=579.38 alt="Pocket Congress on iPhone" />
