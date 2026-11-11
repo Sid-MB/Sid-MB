@@ -17,7 +17,6 @@ smbhatia@stanford.edu
 ## Showcase
 
 ### MATS (June – August 2026)
-#### Poster
 <img width="14400" height="9600" alt="Siddharth M. Bhatia MATS Poster Aug 2026 — Collaboration and Negotiation among Multiple Agents" src="https://github.com/user-attachments/assets/53d8acc5-0bb1-4628-b7fb-10363ed54c3f" />
 
 [PDF](https://sidmb.com/p/6039?f=xa&s=b0s)
